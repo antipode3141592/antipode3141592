@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @antipode3141592
+- 👀 I’m interested in video game design and development
+- 🌱 I’m currently learning the ins and outs of Unity
